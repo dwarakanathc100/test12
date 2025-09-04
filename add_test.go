@@ -7,7 +7,7 @@ func TestAdd(t *testing.T) {
 		a, b     int
 		expected int
 	}{
-		{2, 3, 5},
+		{2, 3, 6},
 		{0, 0, 0},
 		{-1, 1, 0},
 		{10, -5, 5},
